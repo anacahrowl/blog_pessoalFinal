@@ -1,0 +1,19 @@
+.cursor{
+    cursor: pointer;
+    color: rgb(245, 237, 237) !important;
+    border: 10px !important;
+}
+
+.text-decorator-none{
+    text-decoration: none;
+}
+
+.cornav{
+    background:linear-gradient(rgb(251, 249, 252),transparent) !important;
+    background-color: rgb(104, 4, 134) !important;
+}
+
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    
+}
